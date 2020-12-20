@@ -219,8 +219,7 @@ public class Day16 {
 					int index = p.get(0);
 					
 					removeFromAllOther(possibilities, rule, index);
-				}
-				
+				}		
 			}			
 		}
 		
